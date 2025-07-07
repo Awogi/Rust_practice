@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "first_word",
+    "guess_number_count_score",
+    "save_contact_list"
+]
